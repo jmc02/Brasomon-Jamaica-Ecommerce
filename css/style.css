@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "Montserrat";
+    font-family: "Sacramento";
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-family: "Montserrat";
+    border-radius: 25px;
+}
+.navbar-nav{
+    font-family: "Montserrat";
+    font-size: 25px;
+}
+.landingpage{
+    height: 550px;
+    width: 100%;
+}
+#img1, #img2, #img3,#img4, #img5, #img6, #img7, #img8, #img9, #img10, #img11, #img12{
+    width: auto;
+    height: 200px;
+}
+#welcome{
+    font-family: "Sacramento";
+    font-size: 7rem;
+}
+#buy{
+    background: url(../img/bg2.jpg);
+    background-size: contain;
+    padding-bottom: 50px;
+}
+#shp{
+    font-family: "Sacramento";
+    font-size: 3rem;
+}
+#header{
+    background: #d0814e;
+    padding: 30px;
+}
+.footer{
+    background: #d0814e;
+    padding: 5px; 
+}
+.navbar-brand{
+    font-family: "impact";
+    font-size: 35px;
+}
+body{
+    background: url(../img/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logo{
+    border-radius: 25px 25px;
+    padding-right: 5px;
+}
+#jumbo{
+    background-color: rgba(0, 0, 0, 0);
+}
